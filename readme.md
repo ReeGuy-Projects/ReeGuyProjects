@@ -5,29 +5,35 @@
 	</a>
 </p>
 
-<h1 align="center"><a href="https://projects.reeguy.com">ReeGuy Projects</a> GitHub repository.</h1>
+<h1 align="center"><a href="https://projects.reeguy.com">ReeGuy Projects</a> GitHub Repository.</h1>
 
-> <p align="center"><b>ReeGuy Projects</b> is a website that features a variaty of projects that we offer.</p>
+> <p align="center"><b>ReeGuy Projects</b> is a website that showcases so-called "Projects" made by ReeGuy and friends.</p>
 
-<h2 align="center">Minecraft Skin Finder!</h2>
-Minecraft Skin Finder is a website that lets you find Minecraft Bedrock and Java profiles,
-<br>
-<h3>You can find options such as:</h3>
+<h2 align="center">Minecraft Skin Grabber!</h2>
+<p>Minecraft Skin Finder (or Grabber) allows you find Minecraft Bedrock and Java profiles,</p>
+
+<p>Minecraft Skin Finder finds Bedrock skin using the Floodgate API, which only works provided you have joined a server with the Floodgate and Geyser plugin.</p>
+
+<p>Minecraft: Java Edition skins come from Mojang's offical API.</p>
+
+<p>Search for a Minecraft skin and get a mini profile containing a skin.</p>
+
+<h3>Known Bugs:</h3>
 <ul>
-<li>Username,</li>
-<li>XUID/UUID,</li>
+	<li>Downloads get saved as .png, need to rename to '(something).png'.</li>
 </ul>
+<br>
 
-<h2 align="center">Youtube Thumbnail Downloader!</h2>
-This website features a way to <b>download</b> Youtube thumbnails, 
+<h2 align="center">YouTube Thumbnail Downloader!</h2>
+This website features a way to <b>download</b> YouTube thumbnails, 
 <br>
-You can download an thumbnail by finding the video of questions link, then afterwards inputting it to the search box on the website.
+You are able to download a YouTube Thumbnail using the video's ID (or full link), then afterwards inputting it to the search box on the website.
 <br>
 <br>
-After that, you would be able to see the Youtube thumbnail of question which you can download (<b>using the download button</b>).
+After that, you would be able to see the YouTube thumbnail of question which you can download (<b>using the download button</b>).
 
 <h2 align="center">Random Server Finder!</h2>
-I pretend it doesn't exist, it shows an "random" option this <a href="https://projects.reeguy.com/projects/minecraftserverfinder/server-finder.js">table</a>.
+We pretend it doesn't exist, it shows an "random" option this <a href="https://projects.reeguy.com/projects/minecraftserverfinder/server-finder.js">table</a>.
 <br>
 <br>
 To find <b>ReeGuy Projects</b>, you need to go to the <a href="https://projects.reeguy.com/">ReeGuy Projects</a> website.
